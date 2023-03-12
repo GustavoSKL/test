@@ -1,7 +1,9 @@
 body {
   text-align: center;
+  scale: 3;
+  padding-top: 50px;
 }
 
 nav {
-  padding-top: 50px;
+   font-family: Comic sans ms;
 }
